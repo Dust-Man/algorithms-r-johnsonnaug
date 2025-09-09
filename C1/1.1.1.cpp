@@ -1,5 +1,6 @@
 #include <bits/stdc++.h>
 using namespace std;
+// Returns the second largest of an array of three numbers
 
 int main(){
     ios_base::sync_with_stdio(false);
